@@ -1,0 +1,22 @@
+body {
+    background: #555;
+}
+
+h1,h5 {
+    font-family: 'Roboto';
+    color: #fff;
+    text-align: center;
+    text-shadow: 2px 2px 3px #333;
+}
+
+div#flickr {
+    margin: 0 auto;
+    width: 900px;
+}
+
+img {
+    margin: 10px 15px;
+    padding: 10px;
+    width: 250px;
+    height: 250px;
+}
